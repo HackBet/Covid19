@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="417dp"
+
+            app:srcCompat="@drawable/coronatime"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  በዚህ ሰአት ትልቁ ጥያቄ ኮሮና ይዦኝ ይሆን የሚለው ነው እናም ጉንፋን እና አንዳንድ አለርጂኮችን እንደ ኮሮና አይነት ምልክት ስላላችው ጭንቀት ውስጥ ልንገባ  እንችላለን ነገር ግን እነዚህ በሽታዎች ከኮሮና ቫይረስ ስለሚለዩ ልዩነታቸውን ማወቅ ተገቢ ነው፡፡\n   "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  በአፍንጫዎ ፈሳሽ  እና ሲያስሉ አክታ የሚኖርዎት ከሆነ ህመምዎ የተለመደው ጉንፋን ነው፡፡\n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="    ኮሮና ቫይረስ በብዛት የሚያሳየው ምልክት ሳል፣ትኩሳት፣የትንፋሽ መቆራረጥ ሲሆኑ የደረቀ ሳል እና በአፍንጫችን ላይ ምንም አይነት እርጥበት አለመኖር ከጉንፋን ይለየዋል፡፡ \n"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ጉንፋን በተለምዶ እንደሚታወቀው አክታ እና ማስነጠስ በተጨማሪም በአፍንጫችን ላይም ፈሳሽ የሚኖር ሲሆን    በዚህም ከኮሮና ቫይረስ ይለያል፡፡\n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  አንዳንድ አለርጂኮች ደሞ የማስነጠስ ፣ ማሳል ፣ በአፍንጫችን ላይም ፈሳሽ ፣ አይን ማሳከክ ምልክታቸው ሲሆን    በዚህም ከኮሮና ቫይረስ ይለያል፡፡\n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="417dp"
+
+            app:srcCompat="@drawable/gee"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ከላይ ያለው ሰንጠረዥ ስለ በሽታዎቹ ልዩነት በደምብ ይናገራል ለበለጠ መረጃ እሱን ማየት ይመከራል፡፡\n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=" ውድ የሀገራችን ዜጎች አስፈላጊውን ጥንቃቄ አድርጉ!\n "
+            android:textColor="#111010"
+            android:textSize="50sp"
+            android:textStyle="bold"></TextView>
+
+    </LinearLayout>
+
+</ScrollView>

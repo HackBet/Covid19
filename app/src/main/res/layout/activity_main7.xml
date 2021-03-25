@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/vac"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ለኮሮና ቫይረስ መድሃኒት ለማግኘት በአለም ላይ ያሉ ዶክተሮች ሁሉ በመሞከር ላይ ናቸው፡፡ ነገር ግን እስካሁን ለኮሮና ቫይረስ [COVID-19] እስካሁን ድረስ መድሃኒትም ሆነ ክትባት አልተገኘለትም፤ ነገር ግን ቫይረሱን መከላከል ይቻላል።\n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/who"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ለኮሮና ቫይረስ ክትባት ለማግኘት ከ1 አመት በላይ ሊፈጅ እንደሚችል WHO ተናግርዋል ስለዚህ አሁን ላይ ማድረግ የሚቻለው ይህ ቫይረስ ሳይዘን መከላከል ወይም ደግሞ ከተያዝንም የሚገባውን ክትትል ማድረግ ከበሽታው ለማገገም እንድንችል ያደርገናል፡፡ \n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

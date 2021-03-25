@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main5Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/cov"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  የኖቭል ኮሮና ቫይረስ (corona virus) ከቀላል እስከ ከባድ የመተንፈሻ አካል ሕመም የሚያስከትል የቫይረስ ዝርያ ሲሆን በበሽታው የተያዙ ሰዎች ትኩሳት፣ ሳል፣ የትንፋሽ መቆራረጥና የመተንፈስ ችግር ምልክቶች ይታይባቸዋል፡፡  በሽታው በጠናባቸው ታማሚዎች ላይ ደግሞ እንደ ሳንባ ምች (pneumonia)፣ ከባድ የመተንፈሻ አካላት ሕመም የሚያሳይ ሲሆን የኩላሊት ሥራ ማቆምና ሞትን ሊያስከትል የሚችል በሽታ ነው፡፡\n"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="   ከእስያ እስከ አሜሪካ፣ ከአውሮፓ እስከ መካከለኛው ምስራቅና አፍሪካ መላውን አለም በስጋት ማራዱን፣ ብዙዎችን ለህልፈተ ህይወት መዳረጉን፣ ከጤና ችግርነት አልፎ የኢኮኖሚና የፖለቲካ ቀውስ ማስከተሉን ተያይዞታል - በቻይና ተቀስቅሶ በፍጥነት በርካታ አገራትን ማዳረሱን የቀጠለው አደገኛው የኮሮና ቫይረስ ወረርሽኝ፡፡\n"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  የዓለም ጤና ድርጅት (WHO) የኖቭል ኮሮና ቫይረስ በሽታ ከታሕሳስ 21 ቀን 2012 ዓ.ም. ጀምሮ በቻይና ዉሃን ከተማ (Wuhan) የተከሰተ መሆኑን አሳወቋል። ኮሮና ቫይረስ ቀደም ብሎ የሚታወቅ በሽታ አምጭ ተኅዋስ ቢሆንም በአሁኑ ወቅት የተከሰተው ግን አዲስ የቫይረስ ዓይነት እንደሆነ ተጠቁማል፡፡\n"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/cov2"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ኮሮና ቫይረስ ከላይ ባለው ምስል ሲመሰል RNA virus ከሚባሉት ውስጥ ነው የሚገኘው በራሱ ህይወት የሌለው ግን በሰውነታችን ውስጥ ከገባ ቡሃላ ሰውነታችንን እንደ ራሱን ማራቢያ ውስዶ ነው የሚያጠቃ አይነት ቫይረስ ነው፡፡ ይህን ጥቃት ሰውነታችን መቻል  ካልቻለ እስከ ሞት ድረስ ሊያደርስ ይችላል፡፡ \n"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+    </LinearLayout>
+</ScrollView>

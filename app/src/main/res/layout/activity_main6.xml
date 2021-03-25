@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/wuuu"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ኮሮና ቫይረስ በ2019 ለመጀመርያ ጊዜ የተከሰተው በChina,Wuhan ከተማ ሲሆን በዚች ሃገር የዱር እንስሳ ንግድ በከፍተኛ ደረጃ ያለ ሲሆን ከባህር ውስጥ የሚወጡ እንስሳዎችም በዚው አካባቢ ለምግብነት ይውላሉ፡፡  ከዚህም ነው ይህ ቫይረስ የተነሳው የሚባለው እነዢ የየዱር እንስሳዎች ይህን ቫይረስ እንዳመጡት እናም በምግብነት በሚውሉ ጊዜ ወደ ሰው እንደተላለፈ ነው የሚነገረው እስካሁን ባለው መረጃ መሰረት ስለዚህ ይህ ቫይረስ ለሰው ብቻ ሳይሆን ለእንስሳዎች ራሱ ስጋት ነው፡፡\n     "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/sad"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  እናም ከዚህ ነው የተነሳው የተባለለት ይህ ቫይረስ ከ China,Wuhan ቢነሳም አሁን ላይ አለምን በማዳርስ ላይ ይገኛል፡፡ ይህም ትልቅ ጥፋት እያደረሰ ይገኛል፡፡\n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/sars"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  የኮሮና ቫይረስ ከዚህም በፊት ተከስቶ ያውቃል ግን የአሁኑ በጣም አስከፊው ሆኖ ተመዝግቡአል፡፡ ከዚህ በፊት የተከሰቱትም Sars እና Mers የሚባሉ ነበሩ እነዚህ ቫይረስዎች በጊዜው ብዙም ጥፋት ሳያመጡ ነበር ያለፉት ይህ ግን Covid-19(Sars cov 2)  የሚባለው ግን በዚህ ሰዐት የአለም ስጋት ሆኖ ነው ያለው፡፡ \n "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

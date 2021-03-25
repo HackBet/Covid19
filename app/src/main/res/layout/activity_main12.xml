@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/vid"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="
+ኮሮና ቫይረስ (Covid 19) ስም አሰያየሙ በWHO የተሰየመ ሲሆን  ኮሮና የተባለው በማይክሮስኮፕ ሲታይ
+የ“Crown” አይነት መልክ ስላለው ነው፡፡ከዛም በተጨማሪ Covid-19 የሚለው ስያሜ የተሰጠው ምክንያት ደሞ \n
+ Co- Corona \n
+
+ Vi- virus \n
+
+ 19- 2019 \n
+ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=" ውድ የሀገራችን ዜጎች አስፈላጊውን ጥንቃቄ አድርጉ!\n "
+            android:textColor="#111010"
+            android:textSize="50sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=" Developed by Betemariam Assaminew"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            ></TextView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

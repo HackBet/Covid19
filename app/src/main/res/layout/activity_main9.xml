@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/xena"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  1. በአፍንጫዎ ፈሳሽ  እና ሲያስሉ አክታ የሚኖርዎት ከሆነ ህመምዎ የተለመደው ጉንፋን ነው፡፡
+ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  2. በኮሮና ቫይረስ (COVID-19)  የሚመጣ ተዛማች በሽታ ሳምባን የሚያጠቃ ሲሆን ምልክቱም አፍንጫ ላይ ፈሳሽ (እርጥበት) የሌለው ደረቅ ሳል ነው፡፡ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  3. ይህ ኮሮና ቫይረስ (COVID-19)  በመባል የሚታወቀው አዲስ በሽታ አምጪ ቫይረስ ሙቀትን የሚቋቋም አይደለም፡፡ በ 26/27 ድግሪ ሴንቲግሬድ በሆነ የሙቀት መጠን የሚሞት ነው፡፡ የፀሐይ ሙቀትን ይጠላል፡፡
+ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  4. በቫይረሱ የተጠቃ አንድ ሰው ቢያስነጥስ፤ ቫይረሱ መሬት ሳያርፍ በአየር ላይ መነሳፈፍና መጓዝ የሚችለው ለ10 ጫማ ያክል ነው፡፡  ቫይረሱ አየር ወለድ ቫይረስ አይደለም፡፡ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  5. ኮሮና ቫይረስ (COVID-19) በብረት ነገሮች ላይ ቢያስ ለ12 ሰዓታት ያህል በህይወት መቆየት የሚችል ሲሆን ስርጭቱን ለመከላከል እና በቫይረሱ እንዳይጠቁ ማንኛውንም ብረት ነክ ዕቃ በነኩ ቁጥር ወዲያውኑ እጅን በንጽህና መጠበቂያ ኬሚካል (ሳሙና) በደንብ መታጠብ ያስፈልጋል፡፡ በጨርቅ ነክ (fabric) ላይ ከ6-12 ሰአታት በህይወት ሊቆይ ይችላል፡፡ ነገር  ግን የተለመደው የልብስ ማጠቢያ ሳሙና ይገድለዋል፡፡
+
+ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  6. የሞቀ ውሃን መጠጣት ሁሉንም የቫይረስ አይነቶች ለማዳከም ውጤታማ ነው፡፡  ስለሆነም ፈሳሾችን ከበረዶ ጋር ላለመጠጣት ይሞክሩ። "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  7. ኮሮኖ ቫይረስ በእጅ ላይ ከ5-10 ደቂቃዎች ብቻ በህይወት ሊቆይ ይችላል፡፡ ስለሆነም እጅን ደጋግመው በሳሙና በደንብ ይታጠቡ፡፡ ከታጠቡም በኋላ ወዲያውኑ በሚመደርጉት እንቅስቃሴ እጅ ላይ ቫይረሱ ሊኖር ስለሚችል ሳያውቁት ዓይንን ሊያሹ፤ አፍንጫን ሊነካኩና ሌሎች መሰል ነገሮችን ሊያደርጉ ይችላሉ፡፡ ከነዚህ ድርጊቶችም ይቆጠቡ፡፡ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  8. ሞቅ ባለ ውሃ ትንሽ ጨው በመጨመር አፍን መጉመጥመጥ እና ከኢንፌክሽን ነጻ ማድረግ ቫይረሱን ለመከላከል አንድ መንገድ አድርጎ መጠቀም ይገባል፡፡ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/black"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ኮሮና ቀለም አይለይም፤ ሁሉንም የሰው ዘር ያጠቃል!
+
+የኮሮና ቫይረስ በሽታ [#COVID19]  ነጭ ጥቁር የቆዳ ቀለም ሳይለይ ሁሉንም የሰው ዘር የሚያጠቃ በሽታ ነው፡፡
+በማህበራዊ ሚዲያዎች ኮሮና ቫይረስ ጥቁር አፍሪካውያን አያጠቃም በሚል የሚሰራጩት መረጃዎች ሀሰተኛ ናቸውና ውድ ቤተሰቦቻችን ጥንቃቄ አይለያችሁ።\n
+"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

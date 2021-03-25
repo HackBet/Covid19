@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/kuas"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  ኮሮና ቫይረስ እርግኳሱ አለም ላይ ያሳረፈው ተዕኖ...\n
+
+የሚዲያዎች ሁሉ ዕርስ እየሆነ የሚገኘው ኮሮና ቫይረስ በእግርኳሱ ላይም ጥላውን አጥልቷል። ዛሬ ከተሰሙ የኮሮና ቫይረስ ዜናዎች መሀል ዋና ዋናዎቹ...\n
+
+- ቀጣይ የላሊግ ጨዋትዎች በዝግ ስታድዮም የሚካሄዱ ይሆናል።\n
+
+- የእንግሊዙ ክለብ ኖቲንግሀም ፎረስት ባለቤት ኢቫንጎሎስ ማሪንኪያስ በቫይረሱ መጠቃታቸውን ይፋ አድረገዋል።\n
+
+- በጣልያን የሚገኙ ተጨዋቾች በቀጥዩ ሳምንት ለብሄራዊ ቡድኖቻቸው ላይጫወቱ ይቻላሉ እንደምንያት የተጠቀሰው ጣልያን የትኛውንም እንቅስቃሴ ማገዷን ተከትሎ ነው።\n
+
+- በጉጉት ከሚጠበቁ የአውሮፓ የውድድር መድረኮች አንዱ የሆነው የአውሮፓ ሻምፒየንስ ሊግ እና ዩሮ ሊግ የመካሄዱ ነገር አጠራጣሪ መሆኑ እየተነገረ ይገኛል ፡፡\n
+
+- አሁን በወጣው መረጃ መሰረት በቫይረሱ መስፋፋት ምክንት ከዚህኛው ዙር በኋላ ውድድሮቹ ላይካሄዱ እንደሚችል ተገልፆል ፡፡\n
+
+
+ "
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="222dp"
+
+            app:srcCompat="@drawable/pac"></ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  በ2020 በአፍሪካ የተጠበቀው የ3 ነጥብ 2 በመቶ እድገት በኮሮና ቫይረስ ሳቢያ ወደ 1 ነጥብ 8 በመቶ ዝቅ እንደሚልና ይህም የአህጉሪቱን ምጣኔ ሀብት እንደሚጎዳው የአፍሪካ ኢኮኖሚክ ኮሚሽን በኮሮና ቫይረስ ሳቢያ በአህጉሪቱ ሊደርስ የሚችለውን የምጣኔ ሀብት ተጽዕኖ በተመለከተ በሰጠው ጋዜጣዊ መግለጫ ላይ ጠቁሟል።\n
+
+"
+            android:textColor="#111010"
+            android:textSize="20sp"
+            android:textStyle="bold"></TextView>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
